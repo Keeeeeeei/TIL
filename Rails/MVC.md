@@ -14,3 +14,6 @@ https://pikawaka.com/rails/mvc
 https://terakura-aina.hatenablog.com/entry/2020/12/14/%E3%80%90Rails%E3%80%91%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B9%E5%87%A6%E7%90%86%E3%81%AE%E6%B5%81%E3%82%8C%28MVC%29
 
 https://diveintocode.jp/blogs/Technology/ProcessFlow
+
+[Rails] リクエストに対応する処理を作成してレスポンスを返そう
+https://pikawaka.com/rails/curriculums-rails-basic-routing-controller-view
