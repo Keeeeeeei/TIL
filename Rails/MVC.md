@@ -17,3 +17,6 @@ https://diveintocode.jp/blogs/Technology/ProcessFlow
 
 [Rails] リクエストに対応する処理を作成してレスポンスを返そう
 https://pikawaka.com/rails/curriculums-rails-basic-routing-controller-view
+
+get postの区別
+https://blog.senseshare.jp/get-post-method.html
