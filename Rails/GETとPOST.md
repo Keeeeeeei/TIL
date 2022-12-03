@@ -22,3 +22,5 @@ HTMLの <form></form>に入力された内容をDBへ登録する
 既存のデータに新しい情報を付加する
 また、GETとは反対に冪等でないかつ安全でないと定義されています。
 
+【Rails入門】params使い方まとめ
+https://www.sejuku.net/blog/29763
